@@ -1,7 +1,7 @@
 Controls - Rainy Worlds
-F1 - enable/disable developer menu
-F2 - rename your slugcat
-F4 - open folder where everything is stored
-F5 - re-color your slugcat to a random color
-F6 - toggle between battle mode and not (battles are coming soon)
-WASD - Movement
+- F1  enable/disable developer menu
+- F2 rename your slugcat
+- F4 open folder where everything is stored
+- F5 re-color your slugcat to a random color
+- F6 toggle between battle mode and not (battles are coming soon)
+- WASD - Movement
